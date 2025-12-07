@@ -28,7 +28,7 @@
           </div>
           <div class="text-5xl group-hover:rotate-12 transition-transform duration-300">📦</div>
         </div>
-      </div>
+      </a>
 
       <a href="https://github.com/dipoengoro" target="_blank" class="bg-github p-6 rounded-3xl col-span-1 md:col-span-1 md:row-span-1 shadow-sm flex flex-col justify-between text-white hover:bg-black transition-colors group">
         <div class="text-4xl group-hover:-translate-y-1 transition-transform">🐙</div>
