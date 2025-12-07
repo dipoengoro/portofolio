@@ -17,7 +17,7 @@
         <div class="absolute -right-12 -bottom-12 w-64 h-64 bg-orange-100 rounded-full opacity-50 group-hover:scale-110 transition-transform duration-700 ease-in-out"></div>
       </div>
 
-      <div class="bg-box-orange p-6 rounded-3xl col-span-1 md:col-span-2 md:row-span-1 shadow-md text-white relative overflow-hidden group cursor-pointer hover:brightness-110 transition-all">
+      <a href="https://github.com/dipoengoro" target="_blank" class="bg-box-orange p-6 rounded-3xl col-span-1 md:col-span-2 md:row-span-1 shadow-md text-white relative overflow-hidden group cursor-pointer hover:brightness-110 transition-all">
         <div class="flex justify-between items-start z-10 relative h-full">
           <div class="flex flex-col justify-between h-full">
             <div>
