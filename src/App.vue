@@ -1,5 +1,4 @@
 <script setup>
-// Gak butuh import apa-apa buat tampilan statis ini
 </script>
 
 <template>
@@ -39,7 +38,7 @@
         </div>
       </a>
 
-      <a href="#" class="bg-linkedin p-6 rounded-3xl col-span-1 md:col-span-1 md:row-span-1 shadow-sm flex flex-col justify-between text-white hover:opacity-90 transition-opacity group">
+      <a href="https://www.linkedin.com/in/muhdiponegoro" class="bg-linkedin p-6 rounded-3xl col-span-1 md:col-span-1 md:row-span-1 shadow-sm flex flex-col justify-between text-white hover:opacity-90 transition-opacity group">
         <div class="text-4xl group-hover:-translate-y-1 transition-transform">💼</div>
         <div>
           <h3 class="font-bold text-lg">LinkedIn</h3>
