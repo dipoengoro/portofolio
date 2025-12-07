@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+    --color-box-orange: #D35400;
+    --color-github: #181717;
+    --color-linkedin: #0077B5;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+}
